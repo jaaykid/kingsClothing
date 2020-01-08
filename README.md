@@ -14,5 +14,6 @@ The one stop shop for all your clothing needs.
  ### Technologies used 
  - React 
  - Redux 
+ - SCSS
  - Firebase
  - Stripe
