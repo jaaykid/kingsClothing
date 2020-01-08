@@ -7,8 +7,15 @@
 
 .directory-menu {
   width: 100%;
+  display: block;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  @media only screen and (min-width: 750px) {
+	width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+	}
 }
 
